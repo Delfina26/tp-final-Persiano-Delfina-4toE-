@@ -47,7 +47,7 @@ main {
 h2 {
     color: #a94f36;
     text-align: center;
-   border-bottom: #a94f36;
+   border: bottom 2px solid #a94f36;
 }
 
 h3 {
@@ -55,7 +55,7 @@ h3 {
 }
 
 h1{
-    border-bottom: #FFF9EF;
+    border: bottom 2px solid #FFF9EF;
 }
 
 
