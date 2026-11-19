@@ -45,13 +45,19 @@ main {
 
 
 h2 {
-    color: #A94F36;
+    color: #a94f36;
     text-align: center;
+   border-bottom: #a94f36;
 }
 
 h3 {
     color: #69734B;
 }
+
+h1{
+    border-bottom: #FFF9EF;
+}
+
 
 p {
     font-size: 16px;
